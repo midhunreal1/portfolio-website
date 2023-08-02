@@ -3,54 +3,30 @@ import './portfolio.css'
 import IMG1 from '../../assets/portfolio1.jpg'
 import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
 
 
 const data = [
   {
     id: 1,
     image:IMG1,
-    title: 'This is the title',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
+    title: 'Health-blog-website',
+    github: 'https://github.com/midhunreal1/bootstrapproject',
+    demo: 'https://midhunreal1.github.io/bootstrapproject/'
   },
   {
     id: 2,
     image:IMG2,
-    title: 'This is the title',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
+    title: 'Water-sports-website',
+    github: 'https://github.com/midhunreal1/water-sports-website',
+    demo: 'https://midhunreal1.github.io/water-sports-website/'
   },
   {
     id: 3,
     image:IMG3,
-    title: 'This is the title',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
-  },
-  {
-    id: 4,
-    image:IMG4,
-    title: 'This is the title',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
-  },
-  {
-    id: 5,
-    image:IMG5,
-    title: 'This is the title',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
-  },
-  {
-    id: 6,
-    image:IMG6,
-    title: 'This is the title',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
-  },
+    title: 'Cake-website',
+    github: 'https://github.com/midhunreal1/cake-website',
+    demo: 'https://midhunreal1.github.io/cake-website/'
+  }
 ]
 
 const Portfolio = () => {

@@ -25,18 +25,19 @@ const About = () => {
             <small>3+ Years Working </small>
           </article>
           <article className="about__card">
-          <FiUsers className="about__icon"/>
-            <h5>Clients</h5>
-            <small>200+ Worldwide </small>
+          <FaAward className="about__icon"/>
+            <h5>Education</h5>
+            <small>Bachelor of Technology</small><br></br>
           </article>
+
           <article className="about__card">
           <VscFolderLibrary className="about__icon"/>
             <h5>Projects</h5>
-            <small>80+ Completed </small>
+            <small>20+ Completed </small>
           </article>
         </div>
 
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident in quidem ab, perferendis nostrum error repellendus molestias, minima est nemo itaque dolorum amet laudantium at aspernatur, aut modi omnis suscipit.</p>
+        <p>Passionate MERN stack developer curious to learn more about developing scalable distributed systems,loves problem-solving and cares about writing readable and  maintainable code.</p>
       <a href="#contact" className="btn btn-primary">Let's Talk</a>
       </div>
       </div>
