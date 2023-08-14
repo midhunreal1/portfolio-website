@@ -10,8 +10,8 @@ const data = [
     id: 1,
     image:IMG1,
     title: 'Health-blog-website',
-    github: 'https://github.com/midhunreal1/bootstrapproject',
-    demo: 'https://midhunreal1.github.io/bootstrapproject/'
+    github: 'https://github.com/midhunreal1/blog-bootstrap-project',
+    demo: 'https://midhunreal1.github.io/blog-bootstrap-project/'
   },
   {
     id: 2,
