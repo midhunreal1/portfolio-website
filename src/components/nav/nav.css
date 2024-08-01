@@ -15,11 +15,11 @@ nav{
 }
 
 nav a{
-    background: transparent;
+    background: black;
     padding: 0.9rem;
     border-radius: 50%;
     display: flex;
-    color: var(--color-light);
+    color: rgb(134, 134, 134);
     font-size: 1.1rem;
 }
 

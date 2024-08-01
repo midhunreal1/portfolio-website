@@ -21,27 +21,7 @@ const Services = () => {
                 user needs, goals, and pain points.
               </p>
             </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>
-                Strong understanding of visual design principles, color theory,
-                and typography to create aesthetically pleasing interfaces.
-              </p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>
-                Experience in creating interactive prototypes to validate design
-                concepts and gather user feedback.
-              </p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>
-                Ability to create and maintain design systems and style guides
-                for consistent and scalable UI components.
-              </p>
-            </li>
+        
           </ul>
         </article>
         {/* END OF UI/UX  */}
@@ -57,27 +37,7 @@ const Services = () => {
                 using the MERN (MongoDB, Express.js, React.js, Node.js) stack.
               </p>
             </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>
-                Strong understanding of front-end build tools like Webpack or
-                Babel for optimizing and bundling code.
-              </p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>
-                Proficient in using Git for version control, collaborating with
-                team members, and managing code repositories.
-              </p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>
-                Ability to write efficient and optimized server-side code in
-                Node.js, ensuring high-performance web applications.
-              </p>
-            </li>
+        
           </ul>
         </article>
         {/* END OF WEB DEVELOPMENT  */}
@@ -94,27 +54,8 @@ const Services = () => {
                 posts, and video scripts.
               </p>
             </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>
-                Strong research skills to gather information from reliable
-                sources and present it in a clear and concise manner.
-              </p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>
-                Proficient in optimizing content for different platforms and
-                formats.
-              </p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>
-                Ability to craft engaging social media content, leveraging
-                platforms such as Facebook, Instagram, Twitter, and LinkedIn.
-              </p>
-            </li>
+       
+        
           </ul>
         </article>
         {/* END OF CONTENT CREATION */}
